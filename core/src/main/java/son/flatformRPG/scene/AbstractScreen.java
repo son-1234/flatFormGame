@@ -45,7 +45,7 @@ public abstract class AbstractScreen implements Screen {
     public void hide() {
         Gdx.app.log(Main.LOG, "hide screen: " + getName());
     }
-
+//d
     @Override
     public void pause() {
         Gdx.app.log(Main.LOG, "pause screen: " + getName());
